@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/Chrome-116%2B-4285F4?logo=googlechrome&logoColor=white" alt="Chrome 116 or later" />
     <img src="https://img.shields.io/badge/Manifest-V3-4B7BEC" alt="Manifest V3" />
-    <img src="https://img.shields.io/badge/Version-1.6.2-6366F1" alt="Version 1.6.2" />
+    <img src="https://img.shields.io/badge/Version-1.6.3-6366F1" alt="Version 1.6.3" />
     <img src="https://img.shields.io/badge/License-MIT-2EA44F" alt="MIT License" />
     <img src="https://img.shields.io/badge/Local--first-No%20tracking-168B65" alt="Local first, no tracking" />
   </p>
